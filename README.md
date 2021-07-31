@@ -1,1 +1,2 @@
 # testplay
+just read README!;
